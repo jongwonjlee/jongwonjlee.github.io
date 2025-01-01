@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "Neural Network-Based Long-Term Place Recognition from Omni-Images"
 date: 2019-06-24 00:00:00 +00:00
-image: /images/404.jpg
+image: /images/ur19-jlee.png
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong>, Ayoung Kim"
 venue: "IEEE International Conference on Ubiquitous Robots (UR)"
