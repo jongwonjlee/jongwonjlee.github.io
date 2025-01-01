@@ -12,7 +12,7 @@ arxiv: https://arxiv.org/pdf/2309.08769
 video: 
 code: 
 poster: 
-slides: /pdfs/scitech2024-jlee-slides.pdf
+slides: /pdfs/scitech24-jlee-slides.pdf
 website: 
 youtube: 
 ---

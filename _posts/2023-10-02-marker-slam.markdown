@@ -11,7 +11,7 @@ paper: https://oravus.github.io/vpr-workshop/assets/accepted_papers/14_comparati
 arxiv: https://arxiv.org/pdf/2309.04441
 video: 
 code: 
-poster: /pdfs/iros2023ws-jlee-poster.pdf
+poster: /pdfs/iros23ws-jlee-poster.pdf
 slides: 
 website: 
 youtube: 
