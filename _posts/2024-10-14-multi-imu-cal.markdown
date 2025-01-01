@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Efficient Extrinsic Self-Calibration of Multiple IMUs Using Measurement Subset Selection"
+title: "Efficient Extrinsic Self-Calibration of Multiple IMUs Using Measurement Subset Selection"
 date: 2024-10-14 00:00:00 +00:00
 image: /images/404.jpg
 categories: research
