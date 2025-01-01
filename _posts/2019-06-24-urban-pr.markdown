@@ -1,0 +1,19 @@
+---
+categories: research
+layout: post
+title: "Neural Network-Based Long-Term Place Recognition from Omni-Images"
+date: 2019-06-24 00:00:00 +00:00
+image: /images/404.jpg
+author: "Jongwon Lee"
+authors: "<strong>Jongwon Lee</strong>, Ayoung Kim"
+venue: "IEEE International Conference on Ubiquitous Robots (UR)"
+paper: https://ieeexplore.ieee.org/abstract/document/8768636
+arxiv: 
+video: 
+code: 
+poster: 
+slides: /pdfs/ur19-jlee-slides.pdf
+website: 
+youtube: 
+---
+We present a learning-based image retrieval method using fisheye images for urban environments, addressing scene changes over time.
