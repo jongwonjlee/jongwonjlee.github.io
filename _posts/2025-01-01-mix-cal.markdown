@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Foo"
+date:   2025-01-01 00:00:00 +00:00
+image: /images/404.jpg
+categories: research
+author: "Jongwon Lee"
+authors: "<strong>Jongwon Lee</strong>, Foo, Bar"
+venue: "IROS 2024"
+arxiv: https://arxiv.org/pdf/2407.02232
+code: 
+website: 
+---
+Multi-IMU extrinsic calibration 
