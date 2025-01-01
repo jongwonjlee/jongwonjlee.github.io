@@ -1,9 +1,9 @@
 ---
+categories: research
 layout: post
 title: "Efficient Extrinsic Self-Calibration of Multiple IMUs Using Measurement Subset Selection"
 date: 2024-10-14 00:00:00 +00:00
 image: /images/404.jpg
-categories: research
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong>, David Hanley, Timothy Bretl"
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
