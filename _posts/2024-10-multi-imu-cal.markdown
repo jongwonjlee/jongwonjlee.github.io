@@ -11,8 +11,8 @@ paper: https://ieeexplore.ieee.org/abstract/document/10802604/
 arxiv: https://arxiv.org/pdf/2407.02232
 video: 
 code: 
-poster: pdfs/iros24-jlee-poster.pdf
-slides: pdfs/iros24-jlee-slides.pdf
+poster: /pdfs/iros24-jlee-poster.pdf
+slides: /pdfs/iros24-jlee-slides.pdf
 website: 
 youtube: 
 ---
