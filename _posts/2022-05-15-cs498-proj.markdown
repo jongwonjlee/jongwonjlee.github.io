@@ -9,7 +9,7 @@ image: /images/404.jpg
 website: 
 paper: /pdfs/cs498-proj-paper.pdf
 video: 
-code: https://github.com/priyammaz/TransformersInVision
+code: https://github.com/priyammaz/TransformersInVision.git
 poster: 
 slides: 
 ---

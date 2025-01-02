@@ -9,7 +9,7 @@ image: /images/404.jpg
 website: 
 paper: /pdfs/ae598-proj-paper.pdf
 video: 
-code: https://github.com/priyammaz/TransformersInVision
+code: https://github.com/andreschreiber/AE598project.git
 poster: 
 slides: 
 ---
