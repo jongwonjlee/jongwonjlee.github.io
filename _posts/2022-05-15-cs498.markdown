@@ -1,0 +1,16 @@
+---
+categories: others
+course: "UIUC CS 498: Introduction to Machine Perception"
+layout: post
+title: "Introduction to Machine Perception"
+date: 2022-05-15 00:00:00 +00:00
+custom_date: "Spring 2022"
+image: /images/404.jpg
+website: https://shenlong.web.illinois.edu/teaching/cs498spring22/
+paper: 
+video: 
+code: https://github.com/jongwonjlee/cs498-ss22.git
+poster: 
+slides: 
+---
+UIUC CS 498 class assignments
