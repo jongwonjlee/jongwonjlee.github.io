@@ -3,7 +3,7 @@ categories: others
 course: "UIUC ECE 549: Computer Vision"
 layout: post
 title: "Computer Vision"
-date: 
+date: 2021-05-15 00:00:00 +00:00
 custom_date: "Spring 2021"
 image: /images/404.jpg
 website: https://saurabhg.web.illinois.edu/teaching/ece549/sp2021/
