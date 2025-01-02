@@ -1,16 +1,16 @@
 ---
 categories: others
-course: "UIUC CS 498: Introduction to Machine Perception (Project)"
+course: "UIUC CS 498: Introduction to Machine Perception (Class Project)"
 layout: post
-title: "Transformer Models In Unsupervised Semantic Segmentation"
+title: "Convolutional, Transformer-Based, and Contrastive Learning Methods for Semantic Segmentation"
 date: 2022-05-15 00:00:00 +00:00
 custom_date: "Spring 2022"
 image: /images/404.jpg
 website: 
-paper: 
+paper: /pdfs/cs498-proj-paper.pdf
 video: 
 code: https://github.com/priyammaz/TransformersInVision
 poster: 
 slides: 
 ---
-UIUC CS 498 class project
+We evaluate three key semantic segmentation methods: convolutional, transformer-based, and contrastive learning architectures.
