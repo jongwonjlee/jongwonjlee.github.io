@@ -1,0 +1,15 @@
+---
+categories: others
+course: "UIUC ECE 549: Computer Vision"
+layout: post
+title: "Computer Vision"
+date: Spring 2021
+image: /images/404.jpg
+website: https://saurabhg.web.illinois.edu/teaching/ece549/sp2021/
+paper: 
+video: 
+code: https://github.com/jongwonjlee/cv-sp21-mps
+poster: 
+slides: 
+---
+UIUC ECE 549 class assignments
