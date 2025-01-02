@@ -5,7 +5,7 @@ layout: post
 title: "Computer Vision"
 date: 2021-05-15 00:00:00 +00:00
 custom_date: "Spring 2021"
-image: /images/404.jpg
+image: /images/ece549.jpg
 website: https://saurabhg.web.illinois.edu/teaching/ece549/sp2021/
 paper: 
 video: 
@@ -13,4 +13,4 @@ code: https://github.com/jongwonjlee/cv-sp21-mps.git
 poster: 
 slides: 
 ---
-UIUC ECE 549 class assignments
+UIUC ECE 549 assignments on camera modeling, photography, image processing, geometry, and learning-based image analysis.
