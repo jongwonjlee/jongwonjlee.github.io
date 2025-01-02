@@ -5,12 +5,12 @@ layout: post
 title: "An In-Depth Study on Integrating Inertial Data into Two-View Reconstruction"
 date: 2024-05-15 00:00:00 +00:00
 custom_date: "Spring 2024"
-image: /images/404.jpg
+image: /images/ae598-proj.png
 website: 
 paper: /pdfs/ae598-proj-paper.pdf
 video: 
 code: https://github.com/andreschreiber/AE598project.git
 poster: 
-slides: 
+slides: /pdfs/ae598-proj-slides.pdf
 ---
 Integrating inertial data into two-view reconstruction resolves scale ambiguity in visual odometry while increasing computation time and reprojection error due to conflicting constraints.
