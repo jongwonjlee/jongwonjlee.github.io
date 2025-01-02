@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "The Use of Multi-Scale Fiducial Markers to Aid Rotorcraft Navigation"
 date: 2024-01-04 00:00:00 +00:00
-image: /images/404.jpg
+image: /images/scitech24-jlee.png
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong>, Su Yeon Choi, Timothy Bretl"
 venue: "AIAA SciTech Forum"

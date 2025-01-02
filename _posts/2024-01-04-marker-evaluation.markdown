@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "The Impact of Adverse Environmental Conditions on Fiducial Marker Detection from Rotorcraft"
 date: 2024-01-04 00:00:00 +00:00
-image: /images/404.jpg
+image: /images/scitech24-schoi.jpg
 author: "Su Yeon Choi"
 authors: "Su Yeon Choi, <strong>Jongwon Lee</strong>, Timothy Bretl"
 venue: "AIAA SciTech Forum"
