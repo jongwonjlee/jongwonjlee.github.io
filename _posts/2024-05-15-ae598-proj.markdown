@@ -1,6 +1,6 @@
 ---
 categories: others
-course: "UIUC AE 598: Introduction to 3D Vision"
+course: "UIUC AE 598: Introduction to 3D Vision (Class Project)"
 layout: post
 title: "An In-Depth Study on Integrating Inertial Data into Two-View Reconstruction"
 date: 2024-05-15 00:00:00 +00:00
