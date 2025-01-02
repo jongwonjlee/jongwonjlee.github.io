@@ -5,7 +5,7 @@ layout: post
 title: "Convolutional, Transformer-Based, and Contrastive Learning Methods for Semantic Segmentation"
 date: 2022-05-15 00:00:00 +00:00
 custom_date: "Spring 2022"
-image: /images/404.jpg
+image: /images/cs498-proj.png
 website: 
 paper: /pdfs/cs498-proj-paper.pdf
 video: 
