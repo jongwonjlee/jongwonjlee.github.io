@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers"
 date: 2023-10-02 00:00:00 +00:00
-image: /images/404.jpg
+image: /images/iros23ws-jlee.png
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong>, Su Yeon Choi, David Hanley, Timothy Bretl"
 venue: "IROS Workshop on Closing the Loop on Localization"
