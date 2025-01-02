@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "Extrinsic Calibration of Multiple Inertial Sensors From Arbitrary Trajectories"
 date: 2022-01-14 00:00:00 +00:00
-image: /images/404.jpg
+image: /images/ral22-jlee.png
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong>, David Hanley, Timothy Bretl"
 venue: "IEEE Robotics and Automation Letters (RA-L)"
