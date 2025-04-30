@@ -3,7 +3,7 @@ categories: research
 layout: post
 title: "GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting"
 date: 2025-04-30 00:00:00 +00:00
-image: /images/gsfeatloc-jlee.png
+image: /images/gsfeatloc-jlee.jpg
 author: "Jongwon Lee"
 authors: "<strong>Jongwon Lee</strong> and Timothy Bretl"
 venue: "IEEE Robotics and Automation Letters (RA-L) (Under Review)"
